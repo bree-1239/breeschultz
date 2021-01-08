@@ -1,0 +1,25 @@
+* {
+margin: 0;
+padding: 0;
+  box-sizing: border-box;
+} 
+
+/* NAVBAR */
+
+.nav-bar {
+  height: 60px;
+  background-color: #333333;
+  width: 100%;
+  color: white;
+  font-size: 16px;
+}
+  .navbar ul {
+    list-style: none;
+    text-align: right;
+}
+
+.nav-bar a {
+  color: white;
+  text-decoration: none;
+}
+ 
